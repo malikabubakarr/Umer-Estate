@@ -8,7 +8,7 @@ export default function Home() {
       id: 1,
       title: "5 Marla Commercial Plot – New Metro City",
       price: "",
-      image: "/sample.jpg",
+      image: "/land.jpg",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export default function Home() {
       id: 3,
       title: "Residential Plot – New Metro City",
       price: "",
-      image: "/sample.jpg",
+      image: "/land.jpg",
     },
   ];
 
