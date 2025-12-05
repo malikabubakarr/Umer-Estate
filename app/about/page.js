@@ -9,7 +9,7 @@ const team = [
     role: "Founder & CEO",
     image: "/team1.jpg",
     description:
-      "Hafiz Zaheer Malik has 25 years of experience in real estate. People trust him, and he is known for making the best deals in investing and purchasing property.",
+      "Hafiz Zaheer Malik brings over 25 years of real estate expertise. Known for his honesty, market knowledge, and exceptional negotiation skills, he has earned the trust of countless clients. His guidance consistently leads investors and buyers to secure the best property deals.",
   },
   {
     name: "Rohail Iqbal",
