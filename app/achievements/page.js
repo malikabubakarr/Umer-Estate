@@ -48,7 +48,7 @@ export default function Achievements() {
     },
     {
       title: "First Commercial Deal Holder",
-      images: ["/commercial1.jpg", "/commercial2.jpg"],
+      images: ["/commercial1.jpg"],
       description:
         "Umer Estate was the first to close a landmark commercial deal in the region.",
     },
